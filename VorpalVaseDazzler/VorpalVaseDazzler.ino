@@ -3,9 +3,20 @@
 // Copyright (C) 2018 Vorpal Robotics, LLC
 // This program is licensed under the Creative Commons By-Attribution Non-Commercial 4.0 license.
 
-// This is a driver program for the Vorpal Brillig Vase Base project.
+// This is a driver program for the Vorpal Vase Dazzler project.
+//
+// Because this is open source you are free to source your own parts, however we do have
+// convenient kits that do not require any soldering. Please support us by considering
+// using our kits!  See:
+// https://vorpal-robotics-store.myshopify.com/products/vase-dazzler-kit-no-soldering-required
+//
+// For complete instructions on 3D printing and building the dazzler see:
+// http://tinyurl.com/VaseDazzler
 
-// Basically we added button and potentiometer for controlling mode and brightness.
+// You need the FASTLED library to compile this code:
+// http://fastled.io
+
+
 
 // We're using pins all on one side of the Nano to make it easier to install in
 // the base.
